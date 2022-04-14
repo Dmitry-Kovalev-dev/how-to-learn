@@ -1,6 +1,6 @@
 .description {
-    margin: 0 auto;
-    padding-top: 100px;
-    display: flex;
-    justify-content: center;
-  } 
+  margin: 0 auto;
+  padding: 100px 0 0;
+  display: flex;
+  justify-content: center;
+}
