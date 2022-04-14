@@ -1,4 +1,4 @@
-.khan__buy-book {
+.khan__buy-link {
   margin: 0;
   padding: 0;
   color: #2f80ed;
@@ -9,6 +9,6 @@
   transition: opacity 0.2s linear;
 }
 
-.khan__buy-book:hover {
+.khan__buy-link:hover {
   opacity: 60%;
 }
